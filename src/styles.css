@@ -46,6 +46,7 @@ section img.background {
 }
 
 h1 {
+  color:azure;
   font-family: "Cormorant Garamond", serif;
   font-size: 7rem;
   font-weight: 400;
@@ -54,6 +55,7 @@ h1 {
 }
 
 h2 {
+  color:darkcyan;
   font-size: 2rem;
   font-weight: 400;
   margin: 0;
@@ -67,6 +69,7 @@ h3 {
 }
 
 p {
+  
   font-size: 18px;
   line-height: 1.5;
   margin-bottom: 0;
@@ -74,6 +77,7 @@ p {
 }
 
 p.large {
+  
   font-size: 24px;
 }
 
