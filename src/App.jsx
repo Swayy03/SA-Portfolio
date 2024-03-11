@@ -27,6 +27,7 @@ const siteProps = {
   name: "Samson Moturi",
   title: "Software Developer & IOT developer",
   email: "samsonmoturi79@gmail.com",
+
   gitHub: "https://www.github.com/Swayy03",
   instagram: "Moturi",
   linkedIn: "https://www.linkedin.com/in/samson-moturi-422385228/",
